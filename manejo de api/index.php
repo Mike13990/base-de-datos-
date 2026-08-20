@@ -64,7 +64,7 @@
         </section>
     </main>
     <footer>
-        <p>Sistema de Ventas de Perfumes | PHP + MySQL + API REST | AlexHrz2026©</p>
+        <p>Sistema de Ventas de Perfumes | PHP + MySQL + API REST | Mike2026©</p>
     </footer>
 </body>
 </html>
